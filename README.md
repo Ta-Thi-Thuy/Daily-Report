@@ -7,6 +7,8 @@
 2. Khó khăn gặp phải.
 - Tìm hiểu về nghiệp vụ đặt bàn trong dự án
 3. Ngày mai làm gì?
+- Tham gia Seminar 3 Kỹ năng làm việc tại doanh nghiệp
+- Tham gia buổi chia sẻ Kỹ năng phỏng vấn cơ bản
 - Vẽ mindmap Module2 - Lớp và hướng đối tượng trong PHP
 - Hoàn thiện Backlog 
-- Trả lời bộ câu hỏi Module2.
+
