@@ -1,4 +1,4 @@
-# DAY 1
+# Thứ 4 Ngày 24/02/2021
 1. Hôm nay đã làm gì?
 - Sửa lại lỗi CV 
 - Vẽ mindmap Module2 - Tổng quan về web PHP
