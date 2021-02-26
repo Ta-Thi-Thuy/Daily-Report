@@ -25,5 +25,19 @@
 - Tham gia buổi chia sẻ Kỹ năng phỏng vấn
 - Vẽ mindmap Module2 - Hàm và mảng trong PHP và Access modifier, static method, static property, namespace.
 - Dựng template cho dự án cá nhân. 
+ 
+ # Thứ 6 Ngày  25/02/2021
+ 1. Hôm nay làm gì?
+- Tham gia Seminar 4 Developer Testing
+- Tham gia buổi chia sẻ Kỹ năng phỏng vấn
+- Vẽ mindmap Module2 - Hàm và mảng trong PHP và Access modifier, static method, static property, namespace.
+- Dựng template cho dự án cá nhân. 
+ 2. Khó khăn gặp phải.
+ - Ôn tập lại kiến thức về SQL và SQL mở rộng.
+ 3. Ngày mai làm gì?
+ - Trả lời câu phỏng vấn Module 2
+ - Ôn tập kiến thức về SQL 
+ - Làm các bài tập trên Codesign
+  
 
 
